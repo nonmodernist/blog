@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on the blog of alexandra edwards, phd</title>
-        <link>http://localhost:1313/categories/</link>
+        <link>https://nonmodernist.com/blog/categories/</link>
         <description>Recent content in Categories on the blog of alexandra edwards, phd</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>Alexandra Edwards</copyright>
-        <lastBuildDate>Sat, 15 Feb 2025 17:44:35 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 15 Feb 2025 17:44:35 +0000</lastBuildDate><atom:link href="https://nonmodernist.com/blog/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Film</title>
-        <link>http://localhost:1313/categories/film/</link>
+        <link>https://nonmodernist.com/blog/categories/film/</link>
         <pubDate>Sat, 15 Feb 2025 17:44:35 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/film/</guid>
-        <description>&lt;img src="http://localhost:1313/categories/film/film.png" alt="Featured image of post Film" /&gt;</description>
+        <guid>https://nonmodernist.com/blog/categories/film/</guid>
+        <description>&lt;img src="https://nonmodernist.com/blog/categories/film/film.png" alt="Featured image of post Film" /&gt;</description>
         </item>
         
     </channel>
